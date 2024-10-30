@@ -1,0 +1,85 @@
+.bp-favorite{
+  text-align: right;
+	float:right; 
+	width: 270px;
+	right: 0px;
+	font-size: 14px;	
+}
+
+.fav-avatar{
+  float:right; 
+	padding:5px 5px 5px 5px; 
+	}
+.fav-avatar img{
+  width:55px;
+	height:auto;
+	}
+
+
+.deta-fav{
+	font-size: 10px;
+  color: #999;
+	
+}
+.noti-fav{
+   float:right; 
+	 margin-top:-30px;
+}
+
+.loader-del {	
+    background: url('../images/bp-ajax-loader.gif') no-repeat scroll 0% 0% transparent;
+    width: 30px !important;
+    height: 14px !important;
+    margin-top: 010px !important;
+    float:right;
+  	display: none;
+   
+}
+#wp-admin-bar-bp-notifications-default .bp-favorite{
+  text-align: right;
+	float:right; 
+	width: 270px;
+	min-height: 50px;
+	font-size: 14px;
+	white-space: normal!important;
+	padding:5px 0px 10px 0px;
+
+}
+#wp-admin-bar-bp-notifications-default .fav-message{
+	line-height: 18px;
+	padding-top:10px;
+	
+	
+}
+#wp-admin-bar-bp-notifications-default .deta-fav{
+
+}
+#wp-admin-bar-bp-notifications-default .fav-avatar {
+  float:right; 
+	padding:13px 5px 5px 0px;
+	}
+	
+#wp-admin-bar-bp-notifications-default .fav-avatar img{ 
+	width:50px;
+	}
+	
+
+#wp-admin-bar-bp-notifications-default .deta-fav{
+	font-size: 9px;
+  color: #999;
+	
+}
+#wp-admin-bar-bp-notifications-default .noti-fav{
+   float:left; 
+	 margin-top:-30px;
+	
+}
+
+#wp-admin-bar-bp-notifications-default .loader-del {	
+    background: url('../images/bp-ajax-loader.gif') no-repeat scroll 0% 0% transparent;
+    width: 30px !important;
+    height: 14px !important;
+    margin-top: 10px !important;
+    float:left;
+  	display: none;   
+}	
